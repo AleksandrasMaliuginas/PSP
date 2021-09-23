@@ -1,3 +1,4 @@
+import com.alemal.validation.EmailValidator;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
